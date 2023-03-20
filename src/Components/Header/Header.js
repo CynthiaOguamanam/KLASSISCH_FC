@@ -24,12 +24,12 @@ const Header = () => {
           <H4>Klassisch <br/><span style={{color: "#DD2C00"}}>Football</span><br/> Academy</H4>
         </Logo>
         <NavHold>
-          <Nav to='/home'> <BsBuildingFillExclamation/> Latest</Nav>
+          <Nav to='/'> <BsBuildingFillExclamation/> Latest</Nav>
           <Nav to='/news'> <BsInfoCircle/> News</Nav>
           <Nav to='/matches'> <BsFillPatchCheckFill/> Matches</Nav>
           <Nav to='/gallery'> <BsImage/> Gallery</Nav>
           <Nav to='/shop'><BsCart/> Shop</Nav>
-          <Nav to='/'><BsPersonFill/> Register</Nav>
+          <Nav to='/register'><BsPersonFill/> Register</Nav>
         </NavHold>
         <BurgerHold onClick={() =>{
           setNav(true)

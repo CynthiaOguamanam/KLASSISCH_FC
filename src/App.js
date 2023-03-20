@@ -20,14 +20,14 @@ const App = () =>{
     <BrowserRouter>
       <Header/>
       <Routes>
-        <Route path="/home" element={<Landingpage/>}/>
+        <Route path="/" element={<Landingpage/>}/>
         <Route path="/home" element={<Latest/>}/>
         <Route path="/news" element={<News/>}/>
         <Route path='/detail' element-={<NewsDetailPage/>}/>
         <Route path='/matches' element={<Matches/>}/>
         <Route path='gallery' element={<Gallery/>}/>
         <Route path='/shop' element={<Shop/>}/>
-        <Route path='/' element={<Register/>}/>
+        <Route path='/register' element={<Register/>}/>
         <Route path='/login' element={<Login/>}/>
         <Route path='/cartdetail' element={<CartDetailPage/>}/>
         <Route path='/cartpage' element={<CartPage/>}/>
