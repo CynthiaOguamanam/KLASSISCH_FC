@@ -17,7 +17,7 @@ const Hero4 = () => {
 
   const [modal, setModal] = useState(false);
   const [loading, setLoading] = useState(false);
-
+  console.log(loading);
 
   return (
    <Container>

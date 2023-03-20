@@ -7,7 +7,6 @@ const Hero5 = () =>{
     return(
         <Container>
         <Wrapper>
-            {/* <br/> */}
             <Line></Line>
             <H1>KLASSISCH TRANSFER IN AND OUT</H1>
             <P>Trending: </P>

@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import pic from '../../Assets/DAY 2/DS1.JPG'
 import {AiFillCalendar} from 'react-icons/ai'
 
 const Card = ({title, desc, img}) => {
@@ -43,7 +42,6 @@ position: center;
 
 const Bottom = styled.div`
 line-height: 15px;
-/* background-color: red; */
 width: 80%;
 margin-left: 20px;
 `;

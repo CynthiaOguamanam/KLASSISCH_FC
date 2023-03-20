@@ -30,7 +30,7 @@ padding-bottom: 15px;
 `;
 
 const Top = styled.img`
-/* background-image :${({img}) => img}; */
+
 width: 100%;
 height: 83%;
 object-fit: scale-down;

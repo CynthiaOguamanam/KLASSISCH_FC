@@ -55,7 +55,6 @@ height: 100%;
 
 const Bottom = styled.div`
 width: 50%;
-/* margin-left: 20px; */
 display: flex;
 flex-direction: column;
 justify-content: center;

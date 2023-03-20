@@ -9,6 +9,7 @@ import pic2 from '../Assets/boot3.jpg'
 const CartPage = () => {
 
     const [loading, setLoading] = useState(false);
+    console.log(loading);
 
   return (
     <Container>

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import {
-    Container, Wrapper, NavHold, Nav, Logo, Img, Img2,
+    Container, Wrapper, NavHold, Nav, Logo, Img,
     BurgerHold, H4, Wrapper2, SearchHold, Search, Categories,
     Nav2, NavDiv
 } from './HeaderStyle';

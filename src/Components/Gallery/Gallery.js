@@ -1,12 +1,11 @@
 import React from 'react'
 import Card from '../LandingPage/Hero2/Card';
 import {
-  Container, Left, Right, Hold
+  Container,Hold
 } from './GalleryStyle';
 import pic from '../Assets/DAY 1/D1.JPG'
 import pic2 from '../Assets/DAY 2/d.JPG'
 import js2 from '../Assets/news1.jpg'
-import news1 from '../Assets/news1.jpg'
 import news2 from '../Assets/news2.jpg'
 import news3 from '../Assets/DAY 1/aa1.JPG'
 import news4 from '../Assets/DAY 2/3.JPG'

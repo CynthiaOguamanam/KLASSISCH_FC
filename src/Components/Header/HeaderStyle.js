@@ -31,7 +31,6 @@ export const Logo = styled(Link)`
 object-fit: contain;
 width: 12%;
 height: 100%;
-/* background-color: green; */
 display: flex;
 align-items: center;
 justify-content: space-between;
@@ -105,7 +104,6 @@ export const NavDiv = styled.div`
 position: fixed;
 height: 50vh;
 width: 90%;
-/* background-color: red; */
 display: flex;
 justify-content: center;
 align-items: center;
@@ -134,7 +132,6 @@ export const Wrapper2 = styled.div`
 width: 100%;
 height: 50%;
 background-color: #D50000;
-/* background-color: #1441A3; */
 display: flex;
 justify-content: space-around;
 align-items: center;

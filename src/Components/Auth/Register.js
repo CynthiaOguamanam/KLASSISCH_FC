@@ -112,7 +112,6 @@ p{
 const Input = styled.input`
 padding: 10px 5px;
 outline: none;
-/* border: 1px solid #a5a5a5; */
 border: none;
 background-color: #263238;
 color: white;

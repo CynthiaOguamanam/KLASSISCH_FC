@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import pic from '../../Assets/DAY 2/DS1.JPG'
 
 export const Container = styled.div`
 width: 100%;
@@ -51,7 +50,6 @@ flex-direction: column;
 @media Screen and (max-width: 768px){
     display: none;
 }
-/* background-color: yellowgreen; */
 `;
 export const Latest = styled.div`
 width: 221px;

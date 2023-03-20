@@ -29,7 +29,7 @@ const CartDetailPage = ( {setModal} ) =>{
             <AiOutlineCloseSquare style={{width: 40, height: 40, color:"#003C58"}}/>
             </Button>
             <Left>
-                <img src={pic} alt='image view'/>
+                <img src={pic} alt='imageview'/>
             </Left>
             <Line></Line>
             <Right>

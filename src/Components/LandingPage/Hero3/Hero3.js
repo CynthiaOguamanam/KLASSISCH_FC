@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-    Container, Wrapper, Title, Mid, Button, Timer, ScoreHold, Logo
+    Container, Wrapper, Title, Mid,Timer, ScoreHold, Logo
 } from './Hero3Style';
 import logo2 from "../../Assets/logo2.png"
 

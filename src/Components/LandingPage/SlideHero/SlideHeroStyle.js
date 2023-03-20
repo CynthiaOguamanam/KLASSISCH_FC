@@ -15,7 +15,6 @@ export const Wrapper = styled.div`
 width: 90%;
 display: flex;
 justify-content: space-between;
-/* background-color: green; */
 
 @media Screen and (max-width: 768px){
     flex-wrap: wrap;

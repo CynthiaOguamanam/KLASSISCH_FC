@@ -1,7 +1,7 @@
 import React from 'react'
 import {
   Container, Top, Title, Players, Logo, Score, Line,
-  Middle, Bottom, Foot, ScoreHold, Left, Ball, Right,
+  Middle, Bottom, Foot, ScoreHold, Left,Right,
   Half, Club, Logo2, Divv, Divv2, Wrapper, News, Latest, Button, Two, One
 } from './MatchesStyle';
 import pic from '../Assets/DAY 1/1.JPG'
@@ -35,7 +35,6 @@ const Matches = () => {
         </Players>
         <h4>Final</h4>
       </Top>
-      {/* <Line>line</Line> */}
       <Middle>
         <Left>
           <i>Samuel Ekechi 44'</i>
@@ -43,7 +42,6 @@ const Matches = () => {
           <i>Hamzat AbdulWasiu 45'</i>
         </Left>
         <AiFillTrophy style={{width: "25px", height: "25px"}}/>
-        {/* <Ball src={ball} alt='ball'/> */}
         <Right>
           <i>Igoh Manuel 54'</i>
         </Right>

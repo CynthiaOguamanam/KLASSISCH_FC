@@ -7,7 +7,6 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 background-color: #263238;
-/* background-color: #0000FF; */
 align-items: center;
 margin-top: 30px;
 padding: 20px 0;
@@ -20,15 +19,12 @@ font-size: 30px;
 `;
 export const Social = styled.div`
 width: 60%;
-/* background-color: green; */
 display: flex;
 justify-content: space-between;
 align-items: center;
 margin: 15px 0;
 `;
 export const Img = styled.div`
-/* width: 45px; */
-/* height: 45px; */
 color: white;
 `;
 export const Line3 = styled.div`

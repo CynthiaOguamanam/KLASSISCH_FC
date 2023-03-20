@@ -7,8 +7,7 @@ const Hero1 = () => {
   return (
     <Container>
         <Wrapper>
-            <H1>Highlights: </H1> 
-            {/* <br/> */}
+            <H1>Highlights: </H1>
             <Line></Line>
             <H1>Klassisch Football Club's <br/>  New Training Center</H1>
         </Wrapper>

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import {
   Container, Left, Right, Wrapper, Div, Latest,
   One, Two, Button, Line
@@ -12,7 +12,7 @@ import a1 from '../../Assets/DAY 2/DS2.JPG'
 import a2 from '../../Assets/DAY 2/keep.JPG'
 import DS3 from '../../Assets/DAY 2/DS1.JPG'
 import DS2 from '../../Assets/DAY 2/DS3.JPG'
-import { AiFillPicture, AiFillTrophy, AiOutlineArrowRight, AiOutlineArrowsAlt, AiOutlineCamera, AiOutlinePoweroff, AiOutlineVideoCamera } from 'react-icons/ai';
+import { AiFillPicture, AiFillTrophy, AiOutlineArrowRight,AiOutlineVideoCamera } from 'react-icons/ai';
 
 
 const Hero2 = () => {
