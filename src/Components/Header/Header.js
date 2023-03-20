@@ -21,7 +21,7 @@ const Header = () => {
       <Wrapper>
         <Logo to='/home'>
           <Img src={pic} alt='logo'/>
-          <H4>Klassisch <br/><span style={{color: "#DD2C00"}}>Football</span><br/> Academy</H4>
+          <H4>Klassisch <br/><span style={{color: "#DD2C00"}}>Football</span><br/> Association</H4>
         </Logo>
         <NavHold>
           <Nav to='/'> <BsBuildingFillExclamation/> Latest</Nav>
@@ -43,9 +43,9 @@ const Header = () => {
           <Search placeholder='Search' type='search'/>
         </SearchHold>
         <Categories>
-          <Nav2> <AiFillMessage/> <a style={{textDecoration: "none", color: "white"}} href='https://hotmail.com/'>klassischfc@hotmail.com</a></Nav2>
+          <Nav2> <AiFillMessage/> <a style={{textDecoration: "none", color: "white"}} href='https://hotmail.com/'>klassischfa@hotmail.com</a></Nav2>
           <Nav2> <AiOutlinePhone/>+2348122346578 / +2349067892345</Nav2>
-          <Nav2> <AiOutlineMail/> <a style={{textDecoration: "none", color: "white"}} href='https://google.mail.com/'>klassischfc@gmail.com</a> </Nav2>
+          <Nav2> <AiOutlineMail/> <a style={{textDecoration: "none", color: "white"}} href='https://google.mail.com/'>klassischfa@gmail.com</a> </Nav2>
         </Categories>
       </Wrapper2>
       {

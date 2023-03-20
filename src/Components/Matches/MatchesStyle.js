@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-width: 100%;
+width: 90%;
 height: auto;
 display: flex;
 justify-content: space-around;
@@ -164,9 +164,10 @@ border-radius: 50%;
 object-fit: cover;
 `;
 export const News = styled.div`
-width: 25%;
+width: 20%;
 display: flex;
 flex-direction: column;
+margin-right: 60px;
 
 @media Screen and (max-width: 768px){
     width: 100%;

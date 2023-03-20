@@ -28,7 +28,7 @@ const Shop = () => {
 
   return (
     <Container>
-      <h1 style={{color: "#263238", fontStyle:"italic"}}>KLASSISCH FC SHOP</h1>
+      <h1 style={{color: "#263238", fontStyle:"italic"}}>KLASSISCH FA SHOP</h1>
       <Wrapper>
       <Card>
           <Img src={shirt} alt='shop'/>

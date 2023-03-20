@@ -10,22 +10,12 @@ const Login = () => {
         </Left>
         <Right>
           <InputHold>
-            <p>Username: </p>
-             <Input placeholder='Igoh Paulo'/>
-          </InputHold>
-          <br/>
-          <InputHold>
             <p>Email: </p>
              <Input placeholder='pauloigoh22@gmail.com'/>
           </InputHold>
           <br/>
           <InputHold>
             <p>Password: </p>
-             <Input placeholder='*************'/>
-          </InputHold>
-          <br/>
-          <InputHold>
-            <p>Confirm Password</p>
              <Input placeholder='*************'/>
           </InputHold>
           <br/>

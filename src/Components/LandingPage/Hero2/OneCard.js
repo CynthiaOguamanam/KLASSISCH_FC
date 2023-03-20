@@ -8,7 +8,7 @@ const OneCard = ({title, image}) => {
         <CardDiv>
           <Bottom>
             <H1>{title}</H1>
-            <H5>Let's press rewind and go back to our <span style={{color: "red"}}>OLD COLLECTIONS</span> from jerseys to long-sleeved tops, shors and tracksuit bottoms in classic club colors and KFC equipment style. A collection that serves KFC supporters a good dose of football nostalgia.</H5>
+            <H5>Let's press rewind and go back to our <span style={{color: "red"}}>OLD COLLECTIONS</span> from jerseys to long-sleeved tops, shors and tracksuit bottoms in classic club colors and KFA equipment style. A collection that serves KFC supporters a good dose of football nostalgia.</H5>
             <Down to='/detail'>
                 <AiOutlineArrowRight/>
                 <H5>View</H5> 

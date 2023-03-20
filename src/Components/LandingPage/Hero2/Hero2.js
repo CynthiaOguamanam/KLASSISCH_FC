@@ -29,7 +29,7 @@ const Hero2 = () => {
         <Card img={DS2} title='Stay Up To Date'  desc='The Academy season takes shape as the calendar is announced for 2023/24.'/>
         <Card img={DS3} title="Fixtures And Result" desc="Under 18's Fixtures Unreleased for 2023/24"/>
       </Left>
-      <OneCard image={a1} title='KLASSISCH FC MADE IT TO THE TOP'/>
+      <OneCard image={a1} title='KLASSISCH FA MADE IT TO THE TOP'/>
       </Div>
       <Right>
         <Latest>
@@ -39,7 +39,7 @@ const Hero2 = () => {
           </One>
           <Two>
             <AiFillTrophy/>
-            <p style={{width: "90%"}}>Country Cup Highlights: KFC Men 4-0 JCFC</p>
+            <p style={{width: "90%"}}>Country Cup Highlights: KFA Men 4-0 JCFA</p>
           </Two>
           <Two>
             <AiFillPicture/>
@@ -51,7 +51,7 @@ const Hero2 = () => {
           </Two>
           <Two>
             <AiOutlineArrowRight/>
-            <p style={{width: "90%"}}>Country Cup Highlights: KFC Men 4-0 JCFC</p>
+            <p style={{width: "90%"}}>Country Cup Highlights: KFA Men 4-0 JCFA</p>
           </Two>
           <Button  to='/news'>See Full List</Button>
         </Latest>

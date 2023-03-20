@@ -9,7 +9,7 @@ const Hero1 = () => {
         <Wrapper>
             <H1>Highlights: </H1>
             <Line></Line>
-            <H1>Klassisch Football Club's <br/>  New Training Center</H1>
+            <H1>Klassisch Football Association's <br/>  New Training Center</H1>
         </Wrapper>
     </Container>
   )

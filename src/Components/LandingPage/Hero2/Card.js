@@ -28,8 +28,9 @@ transform: scale(1.01);
 cursor:  pointer;
 }
 transition: all 500ms;
-@media Screen and (max-width: 7668px){
+@media Screen and (max-width: 768px){
 margin: 25px 0;
+/* padding: 20px 0; */
 }
 `;
 

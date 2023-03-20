@@ -18,7 +18,7 @@ const Footer = () => {
 
   return (
     <Container>
-        <H1>KLASSISCH FC.COM</H1>
+        <H1>KLASSISCH FA.COM</H1>
         <Social>
             <Img> <AiOutlineFacebook style={{width: "50px", height: "50px"}}/> </Img>
             <Img> <AiOutlineTwitter style={{width: "50px", height: "50px"}}/> </Img>
@@ -36,7 +36,7 @@ const Footer = () => {
                 <span>Privacy Policy</span>
                 <span>KFC History</span>
                 <span>Register</span>
-                <span>klassisch fc.com</span>
+                <span>klassisch fa.com</span>
             </Col2>
             <Col3>
                 <span>Matches</span>

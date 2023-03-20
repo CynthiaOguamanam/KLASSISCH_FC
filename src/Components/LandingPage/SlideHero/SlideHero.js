@@ -18,12 +18,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>
@@ -33,12 +33,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>
@@ -48,12 +48,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>
@@ -63,12 +63,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>
@@ -80,12 +80,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>
@@ -95,12 +95,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>
@@ -110,12 +110,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>
@@ -125,12 +125,12 @@ const SlideHero = () => {
           <Teams>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
             <i style={{fontWeight: "bold"}}>VS</i>
             <LogoHold>
               <Logo src={logo} alt='logo'/>
-              <Name>Klassisch FC</Name>
+              <Name>Klassisch FA</Name>
             </LogoHold>
           </Teams>
         </Card>

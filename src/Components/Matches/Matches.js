@@ -23,14 +23,14 @@ const Matches = () => {
         <Players>
         <ScoreHold>
         <Logo src={logo} alt='logo'/>
-        <i>Klassisch FC</i>
+        <i>Klassisch FA</i>
         </ScoreHold>
         <Score>3</Score>
         <p>-</p>
         <Score>1</Score>
         <ScoreHold>
         <Logo src={pic} alt='logo'/>
-        <i>Joy Cometh FC</i>
+        <i>Joy Cometh FA</i>
         </ScoreHold>
         </Players>
         <h4>Final</h4>
@@ -43,7 +43,7 @@ const Matches = () => {
         </Left>
         <AiFillTrophy style={{width: "25px", height: "25px"}}/>
         <Right>
-          <i>Igoh Manuel 54'</i>
+          <i>Igoh Paul 54'</i>
         </Right>
       </Middle>
       <Bottom>
@@ -51,11 +51,11 @@ const Matches = () => {
           <Divv>
           <Club>
             <Logo2 src={logo}/>
-            <i>Klassisch FC</i>
+            <i>Klassisch FA</i>
           </Club>
           <Club>
             <Logo2 src={ball}/>
-            <i>Klassisch FC</i>
+            <i>Klassisch FA</i>
           </Club>
           </Divv>
           <Line></Line>
@@ -68,11 +68,11 @@ const Matches = () => {
         <Divv>
           <Club>
             <Logo2 src={logo}/>
-            <i>Klassisch FC</i>
+            <i>Klassisch FA</i>
           </Club>
           <Club>
             <Logo2 src={pic}/>
-            <i>Klassisch FC</i>
+            <i>Klassisch FA</i>
           </Club>
           </Divv>
           <Line></Line>

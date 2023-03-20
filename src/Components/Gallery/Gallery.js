@@ -26,18 +26,18 @@ const Gallery = () => {
     <Container>
     <Hold>
     <Card img={pic} title='Youth Team' desc='Youth Team is now open to recruiting new youngsters'/>
-    <Card img={pic2} title='Klassisch Football Club' desc='Complete team ready for a match'/>
+    <Card img={pic2} title='Klassisch Football Association' desc='Complete team ready for a match'/>
     <Card img={js2} title='Coaching' desc='Coaches and youngsters'/>
     <Card img={news7} title='Friendly Match Negotiation' desc='Coaches and team lead on negotiations'/>
     <Card img={news2} title='Win from League' desc='Happy team waering a tired face after a big win'/>
-    <Card img={news3} title='Klassisch Football Club' desc='Team Photo'/>
-    <Card img={news5} title='Klassisch Football Club' desc='Training / Fitness exercises'/>
-    <Card img={news4} title='Klassisch Football Club' desc='Team Photo'/>
-    <Card img={news6} title='Klassisch Football Club' desc='Team Photo'/>
-    <Card img={news8} title='Klassisch Football Club' desc='Team training / Fitness exercises'/>
-    <Card img={news9} title='Klassisch Football Club' desc='Team Photo'/>
-    <Card img={news10} title='Klassisch Football Club' desc='Friendly Match'/>
-    <Card img={news11} title='Klassisch Football Club' desc='Explicit goal keeping by goal keeper'/>
+    <Card img={news3} title='Klassisch Football Association' desc='Team Photo'/>
+    <Card img={news5} title='Klassisch Football Association' desc='Training / Fitness exercises'/>
+    <Card img={news4} title='Klassisch Football Association' desc='Team Photo'/>
+    <Card img={news6} title='Klassisch Football Association' desc='Team Photo'/>
+    <Card img={news8} title='Klassisch Football Association' desc='Team training / Fitness exercises'/>
+    <Card img={news9} title='Klassisch Football Association' desc='Team Photo'/>
+    <Card img={news10} title='Klassisch Football Association' desc='Friendly Match'/>
+    <Card img={news11} title='Klassisch Football Association' desc='Explicit goal keeping by goal keeper'/>
     </Hold>
     </Container>
     </>

@@ -17,12 +17,12 @@ const Hero3 = () => {
             <Mid>
             <ScoreHold>
             <Logo src={logo2} alt='logo'/>
-            <i>Klassisch FC</i>
+            <i>Klassisch FA</i>
             </ScoreHold>
             <b style={{color: "red"}}>VS</b>
             <ScoreHold>
             <Logo src={logo2} alt='logo'/>
-            <i>Klassisch FC</i>
+            <i>Klassisch FA</i>
             </ScoreHold>
             </Mid>
         </Wrapper>

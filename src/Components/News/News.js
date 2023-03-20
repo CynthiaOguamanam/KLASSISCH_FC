@@ -20,16 +20,16 @@ const News = () => {
       <Wrapper>
         <Left>
            <div style={{marginTop: "20px"}}>
-           <Onecard image={avat} title='KLASSISCH FC MADE IT TO THE TOP'/>
+           <Onecard image={avat} title='KLASSISCH FA MADE IT TO THE TOP'/>
            </div>
            <div style={{marginTop: "20px"}}>
-           <Onecard image={avatar2} title='NEW: KLASSISCH FC ICONS COLLECTION '/>
+           <Onecard image={avatar2} title='NEW: KLASSISCH FA ICONS COLLECTION '/>
            </div>
            <div style={{marginTop: "20px"}}>
-           <Onecard image={avatar3} title='KLASSISCH FC MADE IT TO THE TOP'/>
+           <Onecard image={avatar3} title='KLASSISCH FA MADE IT TO THE TOP'/>
            </div>
            <div style={{marginTop: "20px"}}>
-           <Onecard image={avatar4} title='NEW: KLASSISCH FC ICONS COLLECTION '/>
+           <Onecard image={avatar4} title='NEW: KLASSISCH FA ICONS COLLECTION '/>
            </div>
         </Left>
         <Right>
@@ -40,7 +40,7 @@ const News = () => {
           </One>
           <Two>
             <AiFillTrophy/>
-            <p style={{width: "90%"}}>Country Cup Highlights: KFC Men 4-0 JCFC</p>
+            <p style={{width: "90%"}}>Country Cup Highlights: KFA Men 4-0 JCFA</p>
           </Two>
           <Two>
             <AiFillPicture/>
@@ -52,11 +52,11 @@ const News = () => {
           </Two>
           <Two>
             <AiOutlineArrowRight/>
-            <p style={{width: "90%"}}>Country Cup Highlights: KFC Men 4-0 JCFC</p>
+            <p style={{width: "90%"}}>Country Cup Highlights: KFA Men 4-0 JCFC</p>
           </Two>
           <Button>See Full List</Button>
         </Latest>
-        <NewsCard img={a2} title='KFC goal keeper beats the record of best goal keeper state championship 2022!!!'/>
+        <NewsCard img={a2} title='KFA goal keeper beats the record of best goal keeper state championship 2022!!!'/>
         <NewsCard img={pic} title='Training get more rigorous as team has got more matches to play' />
         <Latest>
           <One>
@@ -65,7 +65,7 @@ const News = () => {
           </One>
           <Two>
             <AiFillTrophy/>
-            <p style={{width: "90%"}}>Country Cup Highlights: KFC Men 4-0 JCFC</p>
+            <p style={{width: "90%"}}>Country Cup Highlights: KFA Men 4-0 JCFA</p>
           </Two>
           <Two>
             <AiFillPicture/>
@@ -77,7 +77,7 @@ const News = () => {
           </Two>
           <Two>
             <AiOutlineArrowRight/>
-            <p style={{width: "90%"}}>Country Cup Highlights: KFC Men 4-0 JCFC</p>
+            <p style={{width: "90%"}}>Country Cup Highlights: KFA Men 4-0 JCFA</p>
           </Two>
           <Button to='/news'>See Full List</Button>
         </Latest>
